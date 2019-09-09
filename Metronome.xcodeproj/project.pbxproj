@@ -144,6 +144,7 @@
 		4E981FDD22F7235600A9F82C /* View */ = {
 			isa = PBXGroup;
 			children = (
+				4E981FDF22F7238500A9F82C /* Square.swift */,
 				4E981FB122F7234300A9F82C /* ContentView.swift */,
 			);
 			path = View;
@@ -153,7 +154,6 @@
 			isa = PBXGroup;
 			children = (
 				4E981FE122F7239600A9F82C /* Model.swift */,
-				4E981FDF22F7238500A9F82C /* Square.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
